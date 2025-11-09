@@ -49,7 +49,7 @@ It provides a dynamic platform for readers and writers to connect through intera
       ├── package.json
       ├── package-lock.json
       │
-      ├── backend/
+      ├── frontend/
       │   ├── server.js                # Entry point for backend
       │   ├── .env                     # Environment variables
       │   ├── package.json             # Backend dependencies
