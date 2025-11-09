@@ -1,0 +1,16 @@
+{
+  "name": "blogsphere",
+  "version": "1.0.0",
+  "description": "BlogSphere - A modern blogging platform built with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "install-all": "cd frontend && npm install"
+  },
+  "keywords": ["blog", "mern", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
+
